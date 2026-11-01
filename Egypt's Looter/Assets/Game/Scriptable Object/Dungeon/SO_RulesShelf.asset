@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fe011296ebb03c488ba21c25760ed2b, type: 3}
+  m_Name: SO_RulesShelf
+  m_EditorClassIdentifier: Assembly-CSharp::SO_Rules
+  _prefab: {fileID: 6558001828148542782, guid: d98d02add310471459caba14c1957c84, type: 3}
+  _yawOffset: 0
+  _yOffset: 0
+  _minCount: 5
+  _maxCount: 6
+  _mode: 1
+  _minSpacing: 0
+  _doorClearance: 1
+  _allowedRoomStyles: []
+  _footprint: {x: 1, y: 1}
+  _wallMargin: 0
+  _randomYaw: 1
+  _wallInset: 0.3
+  _blockFloorCell: 0
+  _wallWidth: 1
+  _wallDepth: 1
+  _cornerMargin: 0

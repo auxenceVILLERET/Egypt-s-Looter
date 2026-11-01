@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fe011296ebb03c488ba21c25760ed2b, type: 3}
+  m_Name: SO_RulesStairs
+  m_EditorClassIdentifier: Assembly-CSharp::SO_Rules
+  _prefab: {fileID: 1670576373807081248, guid: 545ebb9a681c7de43b8ef1799eeddbea, type: 3}
+  _yawOffset: 180
+  _yOffset: 0
+  _minCount: 1
+  _maxCount: 1
+  _mode: 1
+  _minSpacing: 1
+  _doorClearance: 1
+  _allowedRoomStyles:
+  - {fileID: 11400000, guid: a168656267acd5749b465909bb6f8fb6, type: 2}
+  _footprint: {x: 1, y: 1}
+  _wallMargin: 0
+  _randomYaw: 1
+  _wallInset: 8
+  _blockFloorCell: 1
+  _wallWidth: 1
+  _wallDepth: 1
+  _cornerMargin: 1

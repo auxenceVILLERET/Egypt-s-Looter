@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9c7334d97d8e4941b858348bac05577, type: 3}
+  m_Name: SO_CorridorStyle
+  m_EditorClassIdentifier: Assembly-CSharp::SO_CorridorStyle
+  _minWidth: 1
+  _maxWidth: 3
+  _corridorFloorPrefab: {fileID: 4202724668555032227, guid: f96442df40a0bf74bbd6431cf2ee05d9, type: 3}
+  _corridorFloorSpikePrefab: {fileID: 1281649118572972574, guid: 9a236964e02980a4384fd1622d6136f1, type: 3}
+  _corridorWallPrefab: {fileID: 3591644860445115680, guid: a55e8b944b49e774899ecb13192840e5, type: 3}
+  _corridorWallTorchPrefab: {fileID: 7905119746772394267, guid: e05a1e6bca1e0584db361dee0787672b, type: 3}
+  _corridorWallSpearPrefab: {fileID: 3643266512371397133, guid: 0c076d008b3929744bee69758faf8e26, type: 3}
